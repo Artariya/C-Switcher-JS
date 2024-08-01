@@ -1,6 +1,6 @@
 {
   "name": "c-switcher-js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Switch between different classes with specified event",
   "main": "dist/cswitcher.js",
   "types": "src/cswitcher.ts",
